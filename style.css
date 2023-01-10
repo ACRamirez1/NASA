@@ -40,3 +40,14 @@ p{
     line-height: 15px;
     color:rgb(97, 97, 97);
 }
+
+.button{
+    background-color: rgb(255, 213, 0);
+    padding: 6px;
+    min-height:30px;
+    min-width: 80px;
+}
+
+.button:hover{
+    background-color:aqua;
+}
